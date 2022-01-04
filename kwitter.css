@@ -1,0 +1,25 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    align-self: center;
+    background-image: url("beach.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+h2, h3, h1 {
+    color: whitesmoke;
+}
+
+label {
+    color: whitesmoke;
+}
+
+button {
+    color: rgb(175, 118, 33);
+}
+
+.login
+	{
+		padding: 10px;
+		float: none;
+	}
